@@ -1,9 +1,8 @@
-![Screenshot 2025-05-28 214314](https://github.com/user-attachments/assets/53adc480-54a4-4459-8b5a-0734bc770060)![Screenshot 2025-05-28 214314](https://github.com/user-attachments/assets/be60ef84-cfea-46d3-82f7-e4fbd46fa7a3)# Ex02 Django Polls
-## Date: 
-
+## EX2 ; POLLS
+## Date:28/05/1025 
 ## AIM
-To develop a Django application to implement polls.
 
+To develop a Django application to implement polls.
 
 ## DESIGN STEPS
 

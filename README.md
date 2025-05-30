@@ -90,7 +90,8 @@ def owner(request):
 
 ## COURSERA GRADE
 
-![image](https://github.com/user-attachments/assets/47d207a4-21a5-4608-b360-ad6d87100b6d)
+![image](https://github.com/user-attachments/assets/e44c2b9b-f5e5-4837-aa87-52a478e73de8)
+
 
 ## RESULT
 Thus the program for creating a polls using Django has been executed successfully.
